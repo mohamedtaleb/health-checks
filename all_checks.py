@@ -19,6 +19,7 @@ def main():
 	check = [check rebboot, "pending reboot"]), checj fooo, "root partition full"
     for checkrebot():
     	print("ok")
+    everuhtin ) "ok"
     if check_reboot():
     
         print("Pending Reboot.")
@@ -26,7 +27,8 @@ def main():
     if check_disk_full(disk="/", min_gb=2, min_percent=10):
         print("Disk full.")
         sys.exit(1)
-    
+    if not eveything :
+    sus.exit()
     print("Everything ok")
     sys.exit(0)
 
